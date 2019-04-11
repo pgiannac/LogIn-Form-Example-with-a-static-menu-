@@ -1,1 +1,1 @@
-# LogIn-Form-Example-with-a-static-menu-
+# LogIn Form Example with a static menu
